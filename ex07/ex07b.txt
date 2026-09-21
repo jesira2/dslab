@@ -1,0 +1,12 @@
+Graph:
+Adjacency list of vertex0:2->1->NULL
+Adjacency list of vertex1:3->2->0->NULL
+Adjacency list of vertex2:3->1->0->NULL
+Adjacency list of vertex3:2->1->NULL
+
+DFS Traversal starting from vertex 0:
+Visited0
+Visited2
+Visited3
+Visited1
+
