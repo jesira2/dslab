@@ -1,0 +1,5 @@
+original array:
+12711356
+Sorted array:
+12671135
+
